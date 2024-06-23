@@ -1,0 +1,98 @@
+    /* html,body{
+        overflow: hidden;
+    } */
+
+
+.navbar {
+    height: 100px;
+}
+
+
+.nav-link.active{
+border: 1px solid rgb(0, 154, 216);
+color: rgb(0, 154, 216) !important;
+}
+
+
+
+
+.nav-link{
+    border: 1px solid transparent;
+}
+.nav-link:hover{
+    border: 1px solid rgb(0, 154, 216);
+color: rgb(0, 154, 216) !important;
+}
+
+
+
+
+
+
+
+
+.search-bar .form-control {
+    outline: none;
+
+}
+
+.search-bar .form-control:focus {
+    box-shadow: 0 0 0 0 rgba(13, 110, 253, .25);
+
+}
+
+
+
+
+
+
+
+.page-content{
+    background-image: url(../img/banner.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.Weather-content
+{
+    min-height: 414.5px !important;
+}
+
+.weather-body,.weather-body-three{
+    background-color: rgb(50, 53, 68) !important;
+}
+
+
+.weather-head,.weather-head-three{
+    background-color:rgb(45, 48, 61) !important;
+}
+
+.weather-body-two{
+    background-color: rgb(38, 41, 54) !important;
+}
+
+
+.weather-head-two{
+    background-color:rgb(34, 37, 48) !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer
+{
+    background-color: rgb(38, 41, 54);
+}
+
+
+
+.icon:hover{
+    background-color:rgb(0, 154, 216) !important;
+    color: white !important;
+}
